@@ -1,0 +1,7 @@
+1. Create header container that runs along the top of the view
+2. Create container for Application name and place/anchor it top left of header
+3. Create container for time/date on right of header
+4. Create main container that will hold sailing picture, label, input box and submit button
+5. Insert and place favicon
+6. Write JS to make date and time functional
+7. Write JS that will return a list of lakes in the zipcode provided
